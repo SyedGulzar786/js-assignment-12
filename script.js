@@ -47,3 +47,4 @@ function toDelete(event){
 function deleteAll(){
     listContainer.innerHTML = "";
 }
+
